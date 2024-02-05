@@ -23,15 +23,27 @@ Make sure you have Python installed on your system.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/kcvaghasiya/snake-game.git
+   git clone https://github.com/kcvaghasiya/us-states-game.git
 
 2. Change into the project directory:
    
    ```bash
-   cd SnakeGame
+   cd us-states-game
    
 3. Run the game:
 
    ```bash
    python main.py
 
+![U.S State Map Game Demo](us-states-game.png)
+
+## Dependensies
+
+- Python 3.x
+- Pandas
+- Turtle
+
+## File Structure
+
+main.py: Main Python script for the game.
+us-states-game.csv: CSV file containing U.S state names and coordinates.
