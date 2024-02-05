@@ -45,5 +45,5 @@ Make sure you have Python installed on your system.
 
 ## File Structure
 
-- main.py: Main Python script for the game.
-- us-states-game.csv: CSV file containing U.S state names and coordinates.
+- main.py:- Main Python script for the game.
+- us-states-game.csv:- CSV file containing U.S state names and coordinates.
